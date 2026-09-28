@@ -1,5 +1,6 @@
-import configparser
+"""SQL statements for staging and the Sparkify song-play star schema."""
 
+import configparser
 
 # CONFIG
 config = configparser.ConfigParser()
