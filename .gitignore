@@ -1,0 +1,10 @@
+# OpenTofu / Terraform local state and working files
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+*.tfvars
+crash.log
+crash.*.log
+*_override.tf
+*_override.tf.json
